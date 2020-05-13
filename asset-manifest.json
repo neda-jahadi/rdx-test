@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rdx-test/static/css/main.07e83b60.chunk.css",
+    "main.js": "/rdx-test/static/js/main.65454676.chunk.js",
+    "main.js.map": "/rdx-test/static/js/main.65454676.chunk.js.map",
+    "runtime-main.js": "/rdx-test/static/js/runtime-main.235454b2.js",
+    "runtime-main.js.map": "/rdx-test/static/js/runtime-main.235454b2.js.map",
+    "static/js/2.805c2785.chunk.js": "/rdx-test/static/js/2.805c2785.chunk.js",
+    "static/js/2.805c2785.chunk.js.map": "/rdx-test/static/js/2.805c2785.chunk.js.map",
+    "index.html": "/rdx-test/index.html",
+    "precache-manifest.6ca8928d39b8f367fd64172d54c834fe.js": "/rdx-test/precache-manifest.6ca8928d39b8f367fd64172d54c834fe.js",
+    "service-worker.js": "/rdx-test/service-worker.js",
+    "static/css/main.07e83b60.chunk.css.map": "/rdx-test/static/css/main.07e83b60.chunk.css.map",
+    "static/js/2.805c2785.chunk.js.LICENSE.txt": "/rdx-test/static/js/2.805c2785.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.235454b2.js",
+    "static/js/2.805c2785.chunk.js",
+    "static/css/main.07e83b60.chunk.css",
+    "static/js/main.65454676.chunk.js"
+  ]
+}
